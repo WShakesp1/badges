@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2a24f86.css",
+    "main.js": "/static/js/main.e8de7ec6.js",
+    "static/js/787.bb510ec8.chunk.js": "/static/js/787.bb510ec8.chunk.js",
+    "static/media/fraunces-all-700-normal.woff": "/static/media/fraunces-all-700-normal.a71283f43d6a79222e03.woff",
+    "static/media/fraunces-all-400-normal.woff": "/static/media/fraunces-all-400-normal.1ab8033dedf725ad5f37.woff",
+    "static/media/fraunces-all-900-normal.woff": "/static/media/fraunces-all-900-normal.eff02ca7b8635d7ac674.woff",
+    "static/media/epilogue-all-500-normal.woff": "/static/media/epilogue-all-500-normal.7bcd958e919eccedcd75.woff",
+    "static/media/epilogue-all-400-normal.woff": "/static/media/epilogue-all-400-normal.06abd601976bba25d509.woff",
+    "static/media/fraunces-latin-700-normal.woff2": "/static/media/fraunces-latin-700-normal.308a73764d6168902399.woff2",
+    "static/media/fraunces-latin-400-normal.woff2": "/static/media/fraunces-latin-400-normal.127f376cbe1a4dbdb0fc.woff2",
+    "static/media/fraunces-latin-900-normal.woff2": "/static/media/fraunces-latin-900-normal.520708f9d30296a142af.woff2",
+    "static/media/fraunces-latin-ext-700-normal.woff2": "/static/media/fraunces-latin-ext-700-normal.738f06a9d9d279923a54.woff2",
+    "static/media/fraunces-latin-ext-900-normal.woff2": "/static/media/fraunces-latin-ext-900-normal.0f3f82a34a10ca2397a3.woff2",
+    "static/media/fraunces-latin-ext-400-normal.woff2": "/static/media/fraunces-latin-ext-400-normal.dbcb9b3f1e3377339d15.woff2",
+    "static/media/epilogue-latin-500-normal.woff2": "/static/media/epilogue-latin-500-normal.8d84025da18d18d30ded.woff2",
+    "static/media/epilogue-latin-400-normal.woff2": "/static/media/epilogue-latin-400-normal.c8eef8d6ce20f1969ba9.woff2",
+    "static/media/epilogue-latin-ext-500-normal.woff2": "/static/media/epilogue-latin-ext-500-normal.3d945f5350b49ad859d4.woff2",
+    "static/media/epilogue-latin-ext-400-normal.woff2": "/static/media/epilogue-latin-ext-400-normal.33fa8a1fb57be4325233.woff2",
+    "static/media/fraunces-vietnamese-700-normal.woff2": "/static/media/fraunces-vietnamese-700-normal.eac16a5fff23b4a17c00.woff2",
+    "static/media/fraunces-vietnamese-400-normal.woff2": "/static/media/fraunces-vietnamese-400-normal.9b78be53f64a2999bb15.woff2",
+    "static/media/fraunces-vietnamese-900-normal.woff2": "/static/media/fraunces-vietnamese-900-normal.c5455d4773447e23f636.woff2",
+    "static/media/epilogue-vietnamese-500-normal.woff2": "/static/media/epilogue-vietnamese-500-normal.28d028aedd884f15057a.woff2",
+    "static/media/epilogue-vietnamese-400-normal.woff2": "/static/media/epilogue-vietnamese-400-normal.9684687c1b791c07434b.woff2",
+    "index.html": "/index.html",
+    "main.c2a24f86.css.map": "/static/css/main.c2a24f86.css.map",
+    "main.e8de7ec6.js.map": "/static/js/main.e8de7ec6.js.map",
+    "787.bb510ec8.chunk.js.map": "/static/js/787.bb510ec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a24f86.css",
+    "static/js/main.e8de7ec6.js"
+  ]
+}
